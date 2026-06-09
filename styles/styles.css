@@ -234,7 +234,7 @@ p {
 
 /* Change the main button color when the dropdown is shown */
 .dropdown:hover .dropbtn {
-    background-color: black;
+    background-color: blue;
 }
 
 
