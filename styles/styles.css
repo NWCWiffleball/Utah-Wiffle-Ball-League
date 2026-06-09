@@ -253,13 +253,13 @@ p {
 
 .nwc-table th, .nwc-table td {
     padding: 12px 15px;
-    border: 1px solid goldenrod;
+    border: 1px solid red;
     text-align: left;
 }
 
 /* Header styling to match your blue buttons */
 .nwc-table thead tr {
-    background-color: goldenrod;
+    background-color: red;
     color: black;
     font-weight: bold;
 }
