@@ -7,7 +7,7 @@ body {
 .album-grid {
     display: grid;
     /* This creates columns that resize automatically */
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     width: 95%;
     margin: 0 auto;
 }
@@ -35,7 +35,7 @@ body {
 .photo-caption {
     text-align: center;
     padding: 8px 0;
-    font-size: 0.9rem;
+    font-size: 2rem;
     color: white;
     font-weight: 500;
 }
